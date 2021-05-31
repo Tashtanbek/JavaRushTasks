@@ -2355,3 +2355,30 @@ Caused by: java.io.IOException: Удаленный хост принудител
 2021-05-31 21:31:01 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
 2021-05-31 21:32:01 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
 2021-05-31 21:32:01 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-05-31 21:37:09 INFO  ProjectStartupHandler.projectClosing(155) - ---------- Project closed ----------
+
+2021-05-31 21:37:10 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2021-05-31 21:37:10 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2021-05-31 21:37:56 INFO  ProjectStartupHandler.runActivity(74) - ---------- Project opened ----------
+2021-05-31 21:37:56 INFO  ProjectStartupHandler.runActivity(75) - ---------- Version 3.49 ----------
+
+2021-05-31 21:37:57 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2021-05-31 21:37:57 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2021-05-31 21:37:57 INFO  ApacheHttpClient.refreshUserInfo(305) - responseCode = 200
+2021-05-31 21:37:57 INFO  ApacheHttpClient.refreshUserInfo(311) - User information received.
+2021-05-31 21:37:57 INFO  ApacheHttpClient.startGA(36) - GAService started.
+2021-05-31 21:37:57 INFO  AbstractRestApiClient.startService(71) - EventsService started.
+2021-05-31 21:38:57 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-05-31 21:38:57 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-05-31 21:39:57 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-05-31 21:39:57 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-05-31 21:40:57 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-05-31 21:40:58 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-05-31 21:41:57 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-05-31 21:41:58 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-05-31 21:42:57 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-05-31 21:42:58 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-05-31 21:43:57 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-05-31 21:43:58 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-05-31 21:44:57 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-05-31 21:44:58 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
